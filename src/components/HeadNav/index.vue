@@ -32,12 +32,11 @@ export default {
 <style lang="scss" scoped>
 .nav_container {
   background-color: #f6f9fd;
-  width: 1360px;
+  /*width: 1360px;*/
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   padding-bottom: 111px;
-
   .logo {
     margin-top: 35px;
     margin-left: 40px;

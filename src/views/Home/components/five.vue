@@ -65,7 +65,7 @@ export default {
 
   .right {
     flex: 1;
-    margin-right: -120px;
+    margin-left: 75px;
 
     .input_box {
       border: 2px solid #fc275d;
