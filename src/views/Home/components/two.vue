@@ -14,7 +14,7 @@
         </p>
       </div>
       <div class="item_two">
-        <h1>02</h1>
+        <h1 class="h1_2">02</h1>
         <div>
           {{ $t("index.two.item_two_desc") }}
         </div>
@@ -61,7 +61,6 @@ export default {
     margin-top: 50px;
     margin-left: 110px;
     display: flex;
-
     > div {
       width: 320px;
       height: 363px;
@@ -71,7 +70,6 @@ export default {
       flex-direction: column;
       justify-content: center;
       align-items: center;
-
       h1 {
         font-size: 32px;
         font-family: Rubik-Light, serif;
@@ -79,6 +77,9 @@ export default {
         width: 226px;
         line-height: 26px;
         color: #fc557a;
+      }
+      .h1_2 {
+        margin-top: 56px;
       }
 
       div {
