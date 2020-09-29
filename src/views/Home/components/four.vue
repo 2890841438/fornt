@@ -67,12 +67,14 @@ export default {
   .main {
     > div {
       display: flex;
-      /*justify-content: start;*/
+      justify-content: center;
       align-items: center;
 
       img {
-        width: 101px;
-        height: 73px;
+        /*align-self: center;*/
+        width: 90px;
+        height: 90px;
+        transform: translateY(-50%);
       }
 
       > div {
