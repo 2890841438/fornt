@@ -1,0 +1,113 @@
+{
+  "index": {
+    "title1": "Payment Processing",
+    "title2": "Hardware",
+    "title3": "Pricing",
+    "title4": "About Us",
+    "title5": "Request Demo",
+    "siteName": "Fetail",
+    "one": {
+      "title": "Cloud base point of sale POS with right tools for you restaurant business",
+      "desc": "Save money and grow your business with Fetail. it's built to work in 2020 environment.",
+      "detail1": "Fetail POS is designed with simple to use, so you can focus on how your business is doing.",
+      "title1": "Tools for you to manage your business:",
+      "item1": "Payment Processing",
+      "item2": "Contactless Payments",
+      "item3": "Wireless Hardware",
+      "item4": "Online Ordering",
+      "item5": "Dine-In Ordering",
+      "item6": "Takeout Ordering",
+      "item7": "Advanced QR Code system",
+      "item8": "SMS Messaging",
+      "item9": "Membership Marketing",
+      "item10": "Cloud Base POS Run on iPad IOS",
+      "item11": "Detail Reporting",
+      "item12": "User Permission",
+      "right_desc": " And much more useful tools,  please request our demo."
+    },
+    "two": {
+      "title": "In 2020 environment with our Contactless Solutions",
+      "item_one_desc": "Contactless Dining for Indoor and Outdoor",
+      "item_one_detail": "Contactless for ordering and paying. Customer scan the QR code on the table and order from their own device, and store will confirm the print to kitchen at Fetail POS. ",
+      "item_two_desc": "SMS Help to Boost Con- tactless Takeout Orders",
+      "item_two_detail": "Fetail system will SMS notify customer when online order is accepted, cancelled, ready for pick up, and refunded. Our system cuts unnecessary phone calls, so you can focus on preparing contactless takeout.",
+      "item_three_desc": "Contactless Payments",
+      "item_three_detail": "Fetail POS has contactless in-store payment and online payments. In store with Apple Pay or contactless credit cards, and for online we have multiple digital payment solutions."
+    },
+    "three": {
+      "one": {
+        "title": "Create Your Online Store in Speed",
+        "title_1": "Digital Menu",
+        "title_1_des": "Add menu and options in Fetail POS and it will auto show in your online store. Control your digital menu at POS with useful functions dual menu, universal options, option limits and more. We make tools in digital menu for you to interact with customers.",
+        "title_2": "Online Store",
+        "title_2_des": "When you use Fetail POS menu and it automatically generate for your online store. Customer can pay online or in store. Online Store can be turn ON or OFF at POS.",
+        "title_3": "Advanced QR for Online Store",
+        "title_3_des": "Fetail POS make it simple for you to use QR codes, so you can focus more on advertise QR codes for new orders. Our QR code includes takeout and dine-in, and allow multiple guests to order at same time on one bill."
+      },
+      "two": {
+        "title": "Save Money and Boost Orders",
+        "title_1": "Marketing Center",
+        "title_1_des": "SMS all your subscribed members in less than a minute! You can announce your new dishes, promotions, events and more.",
+        "title_2": "Loyalty Reward Programs",
+        "title_2_des": "We built reward programs for you simply to turn it ON and start! You set your own gift rewards and members can redeem in-store."
+      },
+      "three": {
+        "title": "Manage Your Team",
+        "title_1": "User Permissions and Tracking Reports",
+        "title_1_des": "Manage different level of users and Fetail POS will create user reports for you.",
+        "title_2": "Loyalty Reward Programs",
+        "title_2_des": "Manage your team live status with full detailed report from your iPhone."
+      },
+      "four": {
+        "title": "Avoid Customers Waiting for Walk in or Call Orders",
+        "title_1": "SMS Messaging",
+        "title_1_des": "Stay connected with customer's order status. Our SMS will automatic notify customer order is accepted or cancelled. And manually send SMS from Fetail POS when food is ready for pick up, so your customer don't need to wait around when order by phone or walk-in for takeout."
+      },
+      "five": {
+        "title": "Ordering from Guest Device",
+        "title_1": "Dine in order from guest device",
+        "title_1_des": "Each table's QR code let multiple guest order on one check at same time. When finish and guest pay bill at table from their own device.",
+        "title_2": "Take out order from guest device",
+        "title_2_des": "Guests order online by link or QR code and pay from their device.",
+        "title_3": "Delivery - Coming Soon",
+        "title_3_des": "We understand delivery is important for most restaurants today. Our goal is to find the simple delivery solution fit in our POS, this feature is coming soon!"
+      }
+    },
+    "four": {
+      "one": {
+        "title": "Wireless Hardware (Plug and Play)",
+        "content": "Eliminates all the headache from hard wiring, Fetail POS is running on all plug and play wireless hardware. We preprogrammed all our hardware for you simply just plug and play, all you have to do is connect and turn the settings you like from the POS. Our wireless receipt/kitchen printer is as fast as wire printer, and our wireless label sticker printer is ready to print on your command. Minimum hardware to start is an iPad with IOS 13+, and our wireless hardware are: wireless receipt printer, wireless kitchen printer, wireless label sticker printer, router, bluetooth card reader, iPad with iOS 13+."
+      },
+      "two": {
+        "title": "Detail Reporting on Sales and Profits",
+        "content": "Access real-time data on your restaurant's performance from anywhere. Fetail POS app reports real-time on iPhone or iPad and report include all the details for you to make better business decisions."
+      },
+      "three": {
+        "title": "Course Printing",
+        "content": "Designed for you to use on print courses. When it's ready for next course and simply press submit print to kitchen."
+      },
+      "four": {
+        "title": "Use on Multiple iPad",
+        "content": "Fetail POS supports floor & section layouts, so you can always add more iPad to have new station. Also can link up to 24 wireless printers, contact us for different solutions if you need more than 10+ iPad stations and 24+ printers."
+      },
+      "five": {
+        "title": "Fetail iPad POS for Different Types of Stores",
+        "content": "Fetail POS works on full service restaurants, Hotpot Stores, Boba Tea Shops, Coffee Shops, Bars and More"
+      },
+      "btn": "See Pricing"
+    },
+    "five": {
+      "1": "Homepage",
+      "2": "Payment Processing",
+      "3": "Hardware",
+      "4": "Pricing",
+      "5": "About Us",
+      "6": "© 2020 Fetail, Inc.",
+      "7": "Terms & Conditions",
+      "footer": {
+        "title": "I want a demo"
+      },
+      "btn": "Request Demo"
+    }
+  }
+}
